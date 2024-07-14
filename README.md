@@ -3,7 +3,7 @@
 
 # 数据集
 
-[**球衣号码识别 —— 篮球 Jersey Number Recognition —— Basketball**](/data/Jersey Number Recognition)
+[**球衣号码识别 —— 篮球**](data/Jersey Number Recognition)
 
 
 **侧面视角跑步数据集**
