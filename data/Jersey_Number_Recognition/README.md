@@ -2,7 +2,7 @@
 
 我们的数据集采集于来源于网络的篮球比赛录像视频，一共截取了1864张带有运动员球衣号码的图片。如下图：
 
-![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Jersey%20Number%20Recognition/img/demo.png)
+![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Jersey_Number_Recognition/img/demo.png)
 
 球衣号码的类别包含了57种，每个类别包含的图片数量可见于下表：
 
