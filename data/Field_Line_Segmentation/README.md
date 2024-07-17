@@ -10,6 +10,6 @@
 
 我们在每张图上标注了这13条线的起点和终点，示例如下：
 
-![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Jersey_Number_Recognition/img/show.png)
+![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Field_Line_Segmentation/img/show.png)
 
 
