@@ -3,9 +3,11 @@
 
 # 数据集
 
-## [**球衣号码识别 —— 篮球**](data/Jersey_Number_Recognition)
+## [**球衣号码识别 —— 篮球(Jersey Number Recognition —— Basketball)**](data/Jersey_Number_Recognition)
 
 我们的数据集采集于来源于网络的篮球比赛录像视频，一共截取了1864张带有运动员球衣号码的图片。
+
+Our dataset was collected from basketball game video recordings sourced from the internet, with a total of 1864 images featuring athlete jersey numbers.
 
 ## **侧面视角跑步数据集**
 
