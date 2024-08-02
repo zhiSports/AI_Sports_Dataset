@@ -11,6 +11,7 @@ The existing models are significantly less effective in estimating the lateral p
 
 The following image is a video using YOLOv8-pose.
 
+![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Human_Pose_Estimatie_Side_View/img/raw.gif)
 
 The following image is the video that we have re-annotated.
 
