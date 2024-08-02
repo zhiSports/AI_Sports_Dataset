@@ -1,14 +1,18 @@
-# 场地线识别 —— 羽毛球 （Field Line Segmentation —— Badminton）
+# README.md
+- en [English](README.md)
+- zh_CN [简体中文](README_CN.md)
 
-我们的数据集采集于来源于网络的羽毛球比赛录像视频，一共截取了131张不同时期不同系列的羽毛球比赛图片。如下图：
+# Field Line Segmentation —— Badminton
+
+Our dataset was collected from badminton game video recordings sourced from the internet. A total of 131 images of badminton games from different periods and series were captured, and thirteen lines were segmented, as shown in the following picture:
 
 ![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Field_Line_Segmentation/img/demo.png)
 
-我们分出了13条线，包括球场线以及球网线，如下图：
+thirteen lines were segmented, including sideline and ball net lines, as shown in the following picture:
 
 ![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Field_Line_Segmentation/img/lineID.png)
 
-我们在每张图上标注了这13条线的起点和终点，示例如下：
+We have labeled the starting and ending points of these 13 lines on each image, as shown in the following example:
 
 ![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Field_Line_Segmentation/img/show.png)
 
