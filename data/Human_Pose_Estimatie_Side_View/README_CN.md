@@ -8,7 +8,7 @@
 
 与正面人体相比，现有模型在估计人体的横向姿势方面明显不那么有效。所以我们提出了这个数据集。
 
-下图是使用YOLOv8姿势的视频。此任务清楚地显示了不准确的估计、左右误差和遮挡等问题
+下图是使用YOLOv8姿势的视频。此任务具有估计不准、左右误差和遮挡等挑战。
 
 ![image](https://github.com/zhiSports/AI_Sports_Dataset/blob/main/data/Human_Pose_Estimatie_Side_View/img/raw.gif)
 
